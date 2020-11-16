@@ -31,5 +31,8 @@ co_counties <- counties(state = "CO", cb = TRUE, class = "sf")
 
 install.packages("tigris")
 
+summary(colo_events)
+
+str(colo_events)
 
 
